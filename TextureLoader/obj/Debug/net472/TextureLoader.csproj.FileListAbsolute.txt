@@ -1,0 +1,29 @@
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\TextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\TextureLoader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\AsmResolver.DotNet.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\AsmResolver.PE.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\AsmResolver.PE.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\AsmResolver.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.MSBuild.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\Mod Loader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\UnityEngine.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\VTOLAPI.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\SimpleTCP.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\Serilog.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\System.Threading.Channels.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\Mod Loader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\bin\Debug\net472\Mod Loader.dll.config
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.csproj.AssemblyReference.cache
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.IgnoresAccessChecksTo.cs
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.csproj.CoreCompileInputs.cache
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureL.5D6CB329.Up2Date
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\TextureLoader\obj\Debug\net472\TextureLoader.pdb

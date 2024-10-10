@@ -1,0 +1,15 @@
+﻿{
+    "$schema": "https://gitlab.com/vtolvr-mods/ModLoader/-/raw/release/schema.json",
+    "Title": "Legacy Texture Loader",
+    "Description": "Load the good old days",
+    "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
+    "MetaData": {
+        "DllName": "TextureLoader.dll",
+        "AllowLoadOnStart": true,
+        "ShowOnMainList": true,
+        "DllHash": ""
+    },
+    "DependenciesIds": [
+        3265689427
+    ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|d:\\projects\\vtol vr mods\\riderprojects\\realisticinterior\\realisticinterior\\patches\\texturepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|solutionrelative:realisticinterior\\patches\\texturepatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|d:\\projects\\vtol vr mods\\riderprojects\\realisticinterior\\realisticinterior\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|solutionrelative:realisticinterior\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|d:\\projects\\vtol vr mods\\riderprojects\\realisticinterior\\realisticinterior\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}|RealisticInterior\\RealisticInterior.csproj|solutionrelative:realisticinterior\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "texturepatcher.cs",
+              "DocumentMoniker": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Patches\\texturepatcher.cs",
+              "RelativeDocumentMoniker": "RealisticInterior\\Patches\\texturepatcher.cs",
+              "ToolTip": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Patches\\texturepatcher.cs",
+              "RelativeToolTip": "RealisticInterior\\Patches\\texturepatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:50:08.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Logger.cs",
+              "RelativeDocumentMoniker": "RealisticInterior\\Logger.cs",
+              "ToolTip": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Logger.cs",
+              "RelativeToolTip": "RealisticInterior\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:39:11.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Main.cs",
+              "RelativeDocumentMoniker": "RealisticInterior\\Main.cs",
+              "ToolTip": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\RealisticInterior\\RealisticInterior\\Main.cs",
+              "RelativeToolTip": "RealisticInterior\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:28:04.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
