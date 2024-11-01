@@ -1,0 +1,60 @@
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\LegacyTextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\LegacyTextureLoader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.DotNet.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.PE.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.PE.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.MSBuild.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\VTOLAPI.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\SimpleTCP.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\Serilog.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\System.Threading.Channels.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.dll.config
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.csproj.AssemblyReference.cache
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.IgnoresAccessChecksTo.cs
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.csproj.CoreCompileInputs.cache
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.sourcelink.json
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTe.9F11E8F4.Up2Date
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\TextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\LegacyTextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\LegacyTextureLoader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.DotNet.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.PE.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.PE.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\AsmResolver.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.MSBuild.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\BepInEx.AssemblyPublicizer.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestAudioModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestTextureModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\UnityEngine.UnityWebRequestWWWModule.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\VTOLAPI.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\SimpleTCP.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\Serilog.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\Serilog.Sinks.File.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\System.Threading.Channels.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.pdb
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\bin\Debug\net472\Mod Loader.dll.config
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.csproj.AssemblyReference.cache
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.IgnoresAccessChecksTo.cs
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.csproj.CoreCompileInputs.cache
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.sourcelink.json
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTe.9F11E8F4.Up2Date
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.dll
+D:\Projects\VTOL VR Mods\RiderProjects\LegacyTextureLoader\LegacyTextureLoader\obj\Debug\net472\LegacyTextureLoader.pdb

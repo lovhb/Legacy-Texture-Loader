@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kVQq0VH4tJQ=",
+  "dgSpecHash": "Ms8BsejdScY=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\TextureLoader\\TextureLoader\\TextureLoader.csproj",
+  "projectFilePath": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\LegacyTextureLoader\\LegacyTextureLoader\\LegacyTextureLoader.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\loveb\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512"
   ],

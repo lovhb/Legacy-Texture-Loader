@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\TextureLoader\\TextureLoader\\TextureLoader.csproj",
-        "projectName": "TextureLoader",
+        "projectName": "LegacyTextureLoader",
         "projectPath": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\TextureLoader\\TextureLoader\\TextureLoader.csproj",
         "packagesPath": "C:\\Users\\loveb\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\VTOL VR Mods\\RiderProjects\\TextureLoader\\TextureLoader\\obj\\",

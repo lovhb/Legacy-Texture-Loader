@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TextureLoader;
+namespace LegacyTextureLoader;
 
 public class Logger
 {

@@ -4,6 +4,8 @@
         <OutputType>Library</OutputType>
         <LangVersion>default</LangVersion>
         <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <AssemblyName>LegacyTextureLoader</AssemblyName>
+        <RootNamespace>LegacyTextureLoader</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
         <Reference Include="0Harmony">
@@ -91,6 +93,6 @@
         </PackageReference>
     </ItemGroup>
     <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-        <Exec Command="xcopy &quot;$(ProjectDir)item.json&quot; &quot;C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\@Mod Loader\Mods\TextureLoader\&quot; /i /y&#xA;xcopy &quot;$(TargetPath)&quot; &quot;C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\@Mod Loader\Mods\TextureLoader\&quot; /i /y" />
+      <Exec Command="xcopy &quot;$(ProjectDir)item.json&quot; &quot;C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\@Mod Loader\Mods\LegacyTextureLoader\&quot; /i /y&#xA;xcopy &quot;$(TargetPath)&quot; &quot;C:\Program Files (x86)\Steam\steamapps\common\VTOL VR\@Mod Loader\Mods\LegacyTextureLoader\&quot; /i /y" />
     </Target>
 </Project>

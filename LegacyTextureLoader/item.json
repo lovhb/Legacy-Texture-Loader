@@ -4,7 +4,7 @@
     "Description": "Load the good old days",
     "PreviewImageUrl": "https://vtolvr-mods.com/static/img/Logo.png",
     "MetaData": {
-        "DllName": "TextureLoader.dll",
+        "DllName": "LegacyTextureLoader.dll",
         "AllowLoadOnStart": true,
         "ShowOnMainList": true,
         "DllHash": ""

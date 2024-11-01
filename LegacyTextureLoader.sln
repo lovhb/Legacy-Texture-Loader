@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureLoader", "TextureLoader\TextureLoader.csproj", "{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyTextureLoader", "LegacyTextureLoader\LegacyTextureLoader.csproj", "{6833A6B5-47F2-43DF-80A6-BADFB0A8362B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
